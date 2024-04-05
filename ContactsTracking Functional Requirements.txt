@@ -1,0 +1,5 @@
+ContactsTracking Functional Requirements
+
+- The application should have search functionality
+- The application should let users create, modify and delete contacts
+- The application should detect duplicate contacts and be able to merege them 
